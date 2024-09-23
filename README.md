@@ -2,7 +2,10 @@
 
 ### Project Background
 
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category.
+
+As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
   
 
@@ -16,5 +19,7 @@ During the data transformation process, calculated columns were created as well 
 
 ### Tools and Techniques used
 
-Data analysis as well as Data Cleaning and ETL was done using PowerQuery Editor. Started off with data modelling by mapping the entities which eventually created a star schema with fact table been the fact_booking table and the rest been dimension tables. The revenue analysis dashboard was created using Power Bi, allowing dashboard to be accessed using the mobile as well. 
+Data analysis as well as Data Cleaning and ETL was done using PowerQuery Editor. Started off with data modelling by mapping the entities which eventually created a star schema with fact table been the fact_booking table and the rest been dimension tables. 
+
+The revenue analysis dashboard was created using Power Bi, allowing dashboard to be accessed using the mobile as well. 
 
