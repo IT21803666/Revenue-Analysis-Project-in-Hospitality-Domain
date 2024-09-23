@@ -23,3 +23,32 @@ Data analysis as well as Data Cleaning and ETL was done using PowerQuery Editor.
 
 The revenue analysis dashboard was created using Power Bi, allowing dashboard to be accessed using the mobile as well. 
 
+
+### Features of the dashboard
+
+The following 5 visuals were provided:
+
+#### Revenue by platform -  
+Bar chart shows the revenue generated across various booking platforms
+
+#### Occupancy rate -
+Column chart shows percentage of rooms occupied by weekend and weekdays
+
+#### Revenue by room type -
+Donut chart shows the revenue distributed by room type
+
+#### Booking by status -
+Pie chart shows the distribution of number of bookings based on booking status
+
+#### KPI table -
+A matrix visual (pivot table) showing the various KPIs across cities and hotels
+
+A bunch of card visuals were placed to show the values of important KPIs
+
+The following filters were provided to slice and dice the data: Month-year, city, Booking status, Booking Platform
+
+The theme of the dashboard is based on the logo of the company
+
+The visuals are interactive in nature
+
+Tooltips pop-up when hovering over a visual for more information about the data point
